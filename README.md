@@ -6,7 +6,7 @@ Cualquiera que quiera aprender desarrollo web y quiera hacerlo en un espacio sin
  
 - ¿Por qué?
 
-La idea surgió de la poca disponibilidad de cursos online de programación en español y de que los proyectos más piola en Buenos Aires son pagos (y no baratos).
+La idea surgió de la poca disponibilidad de cursos online de programación en español y de que los proyectos más piolas en Buenos Aires son pagos (y no baratos).
 
 - ¿Tengo que tener algún conocimiento previo?
 
