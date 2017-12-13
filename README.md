@@ -12,11 +12,17 @@ La idea surgió de la poca disponibilidad de cursos de programación en español
 
 Vamos a trabajar con los 3 lenguajes de programación / especificación que componen la plataforma web: HTML, CSS y Javascript 
 
-# horarios
+- ¿Cuáles son las reglas del espacio?
 
-Todos los jueves de 18:30 a 21:00.
+[Código de conducta](https://wiki.rlab.be/doku.php?id=codigo-de-conducta)
 
-# recursos / materiales
+# Coordenadas espacio temporales (cuándo, dónde)
+
+- ¿Horario? Todos los jueves de 18:30 a 21:00.
+
+- [¿Cómo llegar?](https://wiki.rlab.be/doku.php?id=como-llegar) (pueden pedir la dirección en el grupo de Telegram)
+
+# Recursos / materiales
 
 - http://librosweb.es
 - http://librosweb.es/libro/css/
@@ -28,3 +34,8 @@ Todos los jueves de 18:30 a 21:00.
 - [Clase 1](clases/01.md)
 - [Clase 2](clases/02.md)
 - [Clase 3](clases/03.md)
+
+# Contacto
+
+* Mail: contacto@rlab.be
+* Telegram (grupo de asistentes, exclusivamente para hablar de las reuniones y asuntos relacionados a los contenidos): https://t.me/joinchat/BQNK6xG2g912g7bPNxgC3Q
