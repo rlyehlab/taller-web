@@ -2,7 +2,7 @@
 
 - ¿Para quién esta orientando? 
 
-Cualquiera que quiera aprender desarrollo web y quiera hacerlo en un espacio sin fachos, machistas, racistas, misóginos, trolls ni boicoteadores donde las minorías tendrán preferencia.
+Cualquiera que quiera aprender desarrollo web y quiera hacerlo en un espacio donde las minorías tendrán preferencia y sin fachos, machistas, racistas, misóginos, trolls ni boicoteadores.
  
 - ¿Por qué?
 
