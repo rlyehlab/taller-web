@@ -1,8 +1,8 @@
 # Taller de Desarrollo Web
 
-- ¿Para quién esta orientando? 
+- ¿Para quién está orientando? 
 
-Cualquiera que quiera aprender desarrollo web y quiera hacerlo en un espacio donde las minorías tendrán preferencia y donde habr espacio para fachos, machistas, racistas, misóginos, trolls ni boicoteadores.
+Cualquiera que quiera aprender desarrollo web y quiera hacerlo en un espacio donde las minorías tendrán preferencia y donde no habrá espacio para fachos, machistas, racistas, misóginos, trolls ni boicoteadores.
  
 - ¿Por qué?
 
