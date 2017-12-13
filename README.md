@@ -8,6 +8,10 @@ Cualquiera que quiera aprender desarrollo web y quiera hacerlo en un espacio sin
 
 La idea surgió de la poca disponibilidad de cursos de programación en español y en particular de que el proyecto más piola en Buenos Aires es pago (y no barato).
 
+- ¿Tengo que tener algún conocimiento previo?
+
+No hace falta conocimientos previos, vamos a empezar desde lo más básico y cualquier pregunta será bienvenida. 
+
 - ¿Con qué tecnologías trabajaremos?
 
 Vamos a trabajar con los 3 lenguajes de programación / especificación que componen la plataforma web: HTML, CSS y Javascript 
@@ -15,6 +19,10 @@ Vamos a trabajar con los 3 lenguajes de programación / especificación que comp
 - ¿Cuáles son las reglas del espacio?
 
 [Código de conducta](https://wiki.rlab.be/doku.php?id=codigo-de-conducta)
+
+# ¡Importante!
+
+*Hay que traer notebook - netbook* No hace falta que traigan nada instalado, solo que puedan conectarse a internet por wifi.
 
 # Coordenadas espacio temporales (cuándo, dónde)
 
