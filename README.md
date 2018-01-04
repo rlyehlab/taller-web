@@ -42,6 +42,7 @@ Vamos a trabajar con los 3 lenguajes de programación / especificación que comp
 - [Clase 1](clases/01.md)
 - [Clase 2](clases/02.md)
 - [Clase 3](clases/03.md)
+- [Clase 4](clases/04.md)
 
 # Contacto
 
