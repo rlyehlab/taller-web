@@ -39,11 +39,10 @@ Vamos a trabajar con los 3 lenguajes de programación / especificación que comp
 
 # Temario : 
 
-- [Día 1](dia/01.md)
-- [Día 2](dia/02.md)
-- [Día 3](dia/03.md)
-- [Día 4](dia/04.md)
-- [Día 5](dia/05.md)
+- [Clase 1](clases/01.md)
+- [Clase 2](clases/02.md)
+- [Clase 3](clases/03.md)
+- [Clase 4](clases/04.md)
 
 # Contacto
 
